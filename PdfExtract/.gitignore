@@ -1,0 +1,17 @@
+# Virtualenv
+**/*venv
+
+# Environment file
+**/*.sqlite3
+
+# Environment file
+**/*.env
+**/*.Dockerfile
+**/*.docker-compose.yml
+ 
+# Pycache and migrations
+**/*__pycache__
+**/*migrations
+
+# DB 
+
